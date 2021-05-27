@@ -8,9 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "destack": "^0.7.32",
+    "destack": "^0.8.1",
     "next": "10.2.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
