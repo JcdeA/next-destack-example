@@ -8,9 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "destack": "^0.8.1",
+    "@jcdea/destack": "^0.8.1-typescript",
     "next": "10.2.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
   }
 }
